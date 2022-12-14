@@ -1,0 +1,17 @@
+Product Manager
+
+Features: 
+	 Create a product;
+	 Edit a product;
+	 Delete a product.
+	
+
+Tech Stack:
+	   Python 3; 
+	   Visual Studio Code;
+	   TKinter;
+	   SQLite;
+	   Virtualenv.
+
+
+	
